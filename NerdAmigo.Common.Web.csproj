@@ -30,8 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NerdAmigo.Abstractions">
-      <HintPath>packages\NerdAmigo.Abstractions.1.0.1.36623\lib\net45\NerdAmigo.Abstractions.dll</HintPath>
+    <Reference Include="NerdAmigo.Abstractions, Version=1.0.2.24110, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\ticket-solutions-backoffice\packages\NerdAmigo.Abstractions.1.0.4.1\lib\net45\NerdAmigo.Abstractions.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
